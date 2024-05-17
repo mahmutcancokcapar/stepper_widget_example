@@ -12,3 +12,4 @@ Bu proje, Flutter'da Stepper widget'ının nasıl kullanılacağını gösteren 
 ## Anlatım
 Bu konu hakkındaki Medium yazıma göz atabilirsiniz:
 
+https://medium.com/@mahmutcancokcapar/flutter-stepper-widget-ad%C4%B1m-ad%C4%B1m-rehber-b560d513cf7a
